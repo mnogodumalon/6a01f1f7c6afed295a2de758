@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "forms": [
+    {
+      "entity": "android_projekt",
+      "app_id": "6a01f1e2e4ac2b25939308e6",
+      "path": "/rest/apps/6a01f1e2e4ac2b25939308e6/records",
+      "allowed_fields": [
+        "paketname",
+        "app_name",
+        "beschreibung",
+        "version",
+        "min_android_version",
+        "programmiersprache",
+        "kategorien",
+        "status",
+        "startdatum",
+        "geplantes_release",
+        "entwickler_vorname",
+        "entwickler_nachname",
+        "entwickler_email",
+        "repository_url",
+        "play_store_url",
+        "notizen"
+      ],
+      "pow": true,
+      "pow_difficulty": 50000,
+      "title": "Android Projekt — Formular"
+    }
+  ]
+}
